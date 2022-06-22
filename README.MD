@@ -9,7 +9,7 @@
   - https://plugins.jetbrains.com/plugin/16141-k6 - plugin for IDEA JetBrains
   - https://code.visualstudio.com/download - Visual Studio Code
   - https://marketplace.visualstudio.com/items?itemName=k6.k6 – plugin for VS Code
-- Запустить скрипт [samples.js](./samples.js) из репозитория командой: `k6 run samples.js`
+- Запустить скрипт [sample.js](./sample.js) из репозитория командой: `k6 run sample.js`
 - Получить следующий вывод на экран показывающий успешное выполнение скрипта:
 ![Успешная работа k6](./sample_done.png)
 - Установить [Docker](https://docs.docker.com/get-docker/) и [Docker Compose](https://docs.docker.com/compose/install/) на свой компьютер.
